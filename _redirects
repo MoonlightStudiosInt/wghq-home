@@ -1,0 +1,20 @@
+# Redirects from what the browser requests to what we serve
+/r/tony/register              /r/tony/register-beta
+/r/tony/register-beta              https://forms.waddlegames.tk/tony-beta-register
+/r/tony/s              https://tony.waddlegames.tk/s/
+/r/tony/feature-comingsoon      https://tony.waddlegames.tk/featurepage-comingsoon/
+/r/tony/my-account     https://tony.waddlegames.tk/login/
+/r/tony/shop          https://tony.waddlegames.tk/featurepage-comingsoon/
+/r/tony/advertise     https://tony.waddlegames.tk/s/other/about-advertising-on-tony/
+/r/tony/blog          https://blog.tony.waddlegames.tk/?from=TONYREDIRECTS
+/r/tony/jobs          https://go.waddlegames.tk/support
+/r/tony/              https://tony.waddlegames.tk/
+/r/tony/whatistony    https://tony.waddlegames.tk/s/what-is-tony/
+/r/tony/specialoffers     /r/tony/feature-comingsoon/
+/r/tony/features      https://tony.waddlegames.tk/s/features/
+/r/tony/business      /r/tony/feature-comingsoon/
+/r/tony/download      https://tony.waddlegames.tk/s/download/
+/r/tony/about         /r/tony/feature-comingsoon/
+/r/tony/sitemap       https://tony.waddlegames.tk/s/sitemap.xml
+/r/experimental/loop/1             /r/experimental/loop/2
+/r/experimental/loop/2             /r/experimental/loop/1
