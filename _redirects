@@ -18,7 +18,9 @@
 /r/tony/sitemap       https://tony.moonlightstudios.xyz/s/sitemap.xml
 /r/waddlepenguins/policies/terms   https://waddlepenguins.tk/policies/terms
 /r/waddlepenguins/policies/privacy https://waddlepenguins.tk/policies/privacy
-/r/music/xenomusic/web             /r/music/xenomusic/soundcloud
+/r/music/xenomusic/web             https://xenomusic.waddlegameshq.tk/?from=WG-HOME-REDIRECTS
 /r/music/xenomusic/soundcloud      https://go.waddlegames.tk/xenomusic-sc
 /r/experimental/loop/1             /r/experimental/loop/2
-/r/experimental/loop/2             /r/experimental/loop/1
+/r/experimental/loop/2             /r/experimental/loop/3
+/r/experimental/loop/3             /r/experimental/loop/4
+/r/experimental/loop/4             /r/experimental/loop/1
